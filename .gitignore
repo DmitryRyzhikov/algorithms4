@@ -1,0 +1,14 @@
+.idea
+target
+
+*.pdf
+*.iml
+
+src/main/resources/largeDG.txt
+src/main/resources/largeEWD.txt
+src/main/resources/largeEWG.txt
+src/main/resources/largeG.txt
+src/main/resources/largeT.txt
+src/main/resources/largeUF.txt
+src/main/resources/largeW.txt
+src/main/resources/leipzig1M.txt
