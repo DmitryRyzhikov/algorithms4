@@ -13,3 +13,4 @@ http://stackoverflow.com/questions/4955635/how-to-add-local-jar-files-in-maven-p
 
  Example:
   mvn install:install-file -Dfile=D:\Work\IDEA\algorithms4\libs\stdlib.jar -DgroupId=stdlib -DartifactId=stdlib -Dversion=1.0 -Dpackaging=jar -DgeneratePom=true
+  mvn install:install-file -Dfile=C:\work\algorithms4\docs\stdlib-1.0.jar -DgroupId=stdlib -DartifactId=stdlib -Dversion=1.0 -Dpackaging=jar -DgeneratePom=true
